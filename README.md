@@ -12,7 +12,7 @@ City Meds provides a clean and simple UI for browsing medicines, adding them to 
 
 ## ✨ Features
 - 🏠 **Simple UI** for easy navigation  
-- 📦 **Cart & Checkout** functionality  
+- 📦 **Checkout** screen for easy payment and order  
 - 🎨 **Reusable Widgets** for maintainability  
 - 📱 **Smooth Page Indicator** for onboarding  
 - 🧭 **Curved Bottom Navigation Bar** for modern UX  
